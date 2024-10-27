@@ -1,5 +1,5 @@
 
-# 8 Awesome Vue and Nuxt Projects For Beginners 🚀
+# Awesome Vue and Nuxt Projects For Beginners 🚀
 
 ### Note: The Firebase and Supabase config keys are exposed intentionally!!
 
@@ -87,10 +87,6 @@ $ gh repo clone username/8-Awesome-Vue-Projects
 ```bash
 $ git clone https://github.com/username/8-Awesome-Vue-Projects.git
 ```
-
-## 🙏🏽 Support
-
-This project needs a star️ from you. Don't forget to leave a star 🌟
 
 
 ## 👋 Come say hi
